@@ -1,4 +1,3 @@
-# posts/growth-gentle-transitions.md
 ---
 title: "On Growth and Gentle Transitions"
 excerpt: "Change doesn't always announce itself with fanfare. Sometimes it arrives quietly, like morning light slowly filling a room."
@@ -6,6 +5,7 @@ date: "2025-05-15"
 tags: ["personal growth", "change", "reflection"]
 featured: false
 published: true
+coverImage: "/images/growth-gentle.jpg"
 author:
   name: "Eduarda Sena Barra"
   bio: "Personal thoughts and reflections on life, growth, and finding beauty in everyday moments."

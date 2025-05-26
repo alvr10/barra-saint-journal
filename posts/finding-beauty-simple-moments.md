@@ -1,4 +1,3 @@
-# posts/finding-beauty-simple-moments.md
 ---
 title: "Finding Beauty in Simple Moments"
 excerpt: "Life often happens in the quiet spaces between our grand plans. Today I want to share some thoughts on finding joy in the everyday."

@@ -1,4 +1,3 @@
-# posts/art-mindful-living.md
 ---
 title: "The Art of Mindful Living"
 excerpt: "In our rush to achieve and acquire, we often forget the profound peace found in simply being present with ourselves."
